@@ -1,0 +1,9 @@
+name: Procedural
+version: '${version}'
+main: fr.anthony.procedural.Procedural
+api-version: 1.18
+
+commands:
+  paste:
+    description: My paste
+    usage: /<command>
